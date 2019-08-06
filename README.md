@@ -8,7 +8,7 @@ Describe your project at a high level (microserver, psql, java)
   
 # Docker Architecture Diagram  
 ![
-](https://lh3.googleusercontent.com/gJWqYowMq87fnNcQZTVWiYcWYLGBdn-6a0e0p-_Y9UAFbhGyalgrGW8Z9hvE_OrnHMXHPcRNIYk "Cloud Architecture")
+](https://lh3.googleusercontent.com/gJWqYowMq87fnNcQZTVWiYcWYLGBdn-6a0e0p-_Y9UAFbhGyalgrGW8Z9hvE_OrnHMXHPcRNIYk "Docker Architecture")
 
  Two docker files  
   - trading-app  
@@ -18,10 +18,11 @@ Describe your project at a high level (microserver, psql, java)
   
 # Cloud Architecture Diagram  
 ![
-](https://picasaweb.google.com/109776946166881357968/6722140328410422241#6722140330536451666 "Cloud Architecture Diagram") 
+](https://lh3.googleusercontent.com/UYU6dGGLwDJ2rkH0cAExB9jAvACWf2iFUM3KSoLrAueMdBB9mVF5SRpvn4lX3I0a8V6wmT48H9U "Cloud Architecture")
+
 # Elastic Beanstalk (TODO)  
 # Jenkins CI/CD pipeline (TODO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMDcxNzI2MSw4MjEyNDY1MzQsLTM3OT
+eyJoaXN0b3J5IjpbLTE1NzQ3MDU2Niw4MjEyNDY1MzQsLTM3OT
 kxODE0N119
 -->
