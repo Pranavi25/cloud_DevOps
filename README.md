@@ -2,7 +2,7 @@
 Deployment of trading app
 
 # Introduction  
-Every application must be deployed in order to make it accessible to users
+Every application must be deployed in order to make it accessible to users. To understand how to deploy an application, trading app is deployed. This documentation will give a c 
 What project you will deploy and project GitHub URL (your implementation is preferred)  
 Describe your project at a high level (microserver, psql, java)  
   
@@ -30,5 +30,5 @@ Describe your project at a high level (microserver, psql, java)
 # Elastic Beanstalk (TODO)  
 # Jenkins CI/CD pipeline (TODO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0NTIxOTQ3XX0=
+eyJoaXN0b3J5IjpbMTY0OTQzMTc0Ml19
 -->
