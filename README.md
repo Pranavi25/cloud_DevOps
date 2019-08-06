@@ -7,7 +7,8 @@ Every application must be deployed in order to make it accessible to users. To u
 Describe your project at a high level (microserver, psql, java)  
   
 # Docker Architecture Diagram  
-
+![
+](https://lh3.googleusercontent.com/gJWqYowMq87fnNcQZTVWiYcWYLGBdn-6a0e0p-_Y9UAFbhGyalgrGW8Z9hvE_OrnHMXHPcRNIYk "Cloud Architecture")
 
  Two docker files  
   - trading-app  
@@ -25,5 +26,5 @@ Describe your project at a high level (microserver, psql, java)
 # Elastic Beanstalk (TODO)  
 # Jenkins CI/CD pipeline (TODO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2ODU5NjY1MSwtMzc5OTE4MTQ3XX0=
+eyJoaXN0b3J5IjpbODIxMjQ2NTM0LC0zNzk5MTgxNDddfQ==
 -->
