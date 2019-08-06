@@ -17,14 +17,11 @@ Describe your project at a high level (microserver, psql, java)
    - talk about how to create tables (e.g. schema.sql)  
   
 # Cloud Architecture Diagram  
-- trading app diagram  
-  - use [draw.io](http://draw.io/) and aws icons (it's in the [draw.io](http://draw.io/) library)  
-  - include ec2, alb, auto scaling, target group, rds  
-  - security groups  
-  - label all important ports(e.g. ALB HTTP, ec2 tpc:5000, RDS tcp:5432)  
-    
+![
+](https://picasaweb.google.com/109776946166881357968/6722140328410422241#6722140330536451666 "Cloud Architecture Diagram") 
 # Elastic Beanstalk (TODO)  
 # Jenkins CI/CD pipeline (TODO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODIxMjQ2NTM0LC0zNzk5MTgxNDddfQ==
+eyJoaXN0b3J5IjpbLTkyMDcxNzI2MSw4MjEyNDY1MzQsLTM3OT
+kxODE0N119
 -->
