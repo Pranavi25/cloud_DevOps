@@ -16,12 +16,9 @@ Describe your project at a high level (microserver, psql, java)
    - talk about how to create tables (e.g. schema.sql)  
   
 # Cloud Architecture Diagram  
-![
-](https://lh3.googleusercontent.com/UYU6dGGLwDJ2rkH0cAExB9jAvACWf2iFUM3KSoLrAueMdBB9mVF5SRpvn4lX3I0a8V6wmT48H9U " Architecture")
-
-# Elastic Beanstalk (TODO)  
+![enter image description here](https://lh3.googleusercontent.com/jmTpngJvuNvw9B5L9LyJu9x-VxRiWY51xIuFPYTM0r380m-_OZKN_4w70ZfsJT0_8SLYRIoVvdQ "Cloud Architecture")# Elastic Beanstalk (TODO)  
 # Jenkins CI/CD pipeline (TODO)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUxNjYxMDA0MCwtMTU3NDcwNTY2LDgyMT
+eyJoaXN0b3J5IjpbLTQzNzU1MjA5NSwtMTU3NDcwNTY2LDgyMT
 I0NjUzNCwtMzc5OTE4MTQ3XX0=
 -->
